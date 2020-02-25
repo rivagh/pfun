@@ -1,5 +1,4 @@
-# pfun
-UFC - Programação Funcional 2020.1
+# UFC - Programação Funcional 2020.1
 
 # About
 
